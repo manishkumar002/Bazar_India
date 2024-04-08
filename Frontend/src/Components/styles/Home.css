@@ -1,0 +1,50 @@
+.img-wrapper {  
+    width: 100%;
+    overflow: hidden; 
+  }
+  
+  .inner-img {
+    transition: 0.3s;
+  }
+  
+  .inner-img:hover {
+    transform: scale(1.1);
+  }
+  
+
+  
+  .img-wrapper {
+    display: inline-block;
+    box-sizing: border-box;
+  }
+
+  .texts{
+    margin-top: 200px;
+  }
+
+  .imag{
+    height: 550px;
+    background-image: url("https://alukas.presslayouts.com/wp-content/uploads/2023/02/Cross-Stripes-Stone-Bracelet-2.jpg");
+    background-size: 100% 100%;
+  }
+
+  .ima1{
+    height: 270px;
+    background-image: url("https://alukas.presslayouts.com/wp-content/uploads/2023/02/Birds-of-Paradise-Pendant-1-325x325.jpg");
+    background-size: 100% 100%;
+  }
+  .ima2{
+    height: 270px;
+    background-image: url("https://alukas.presslayouts.com/wp-content/uploads/2023/02/Blue-Stripes-Stone-Earrings-1-325x325.jpg");
+    background-size: 100% 100%;
+  }
+  .ima3{
+    height: 270px;
+    background-image: url("https://alukas.presslayouts.com/wp-content/uploads/2023/02/Circle-of-Light-Heart-Earrings-1-325x325.jpg");
+    background-size: 100% 100%;
+  }
+  .ima4{
+    height: 270px;
+    background-image: url("https://alukas.presslayouts.com/wp-content/uploads/2023/02/Cross-Stripes-Stone-Bracelet-1-325x325.jpg");
+    background-size: 100% 100%;
+  }
